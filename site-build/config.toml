@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 languageName = "English"
 title = "Jupyter Lab"
 theme = "LoveIt"
+hideReadingTime = true
 
 # default amount of posts in each pages
 paginate = 20
@@ -57,8 +58,6 @@ enableGitInfo = true
       unsafe = true
         
 [params]
-  hideReadingTime = true
-
   # LoveIt theme version
   version = "0.2.X"
   title = ""
