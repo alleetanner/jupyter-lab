@@ -4,7 +4,6 @@ defaultContentLanguage = "en"
 languageName = "English"
 title = "Jupyter Lab"
 theme = "LoveIt"
-hideReadingTime = true
 
 # default amount of posts in each pages
 paginate = 20
