@@ -57,6 +57,8 @@ enableGitInfo = true
       unsafe = true
         
 [params]
+  hideReadingTime: true
+
   # LoveIt theme version
   version = "0.2.X"
   title = ""
